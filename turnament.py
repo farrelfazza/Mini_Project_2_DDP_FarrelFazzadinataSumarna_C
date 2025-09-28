@@ -98,6 +98,6 @@ def menu():
         print(table)
 
 
-# Main Program
 if login():
+
     menu()
