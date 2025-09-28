@@ -1,4 +1,4 @@
-from prettytable import PrettyTable
+from Prettytable import PrettyTable
 from getpass import getpass
 
 
@@ -101,3 +101,4 @@ def menu():
 if login():
 
     menu()
+
