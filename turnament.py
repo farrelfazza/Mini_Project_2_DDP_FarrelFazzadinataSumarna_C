@@ -4,7 +4,7 @@ from getpass import getpass
 
 users = {
     "wasit": "Cek VAR",
-    "wasit2": "hali kali"
+    "wasit2": "mantap kali"
 }
 
 pemain = {}
@@ -101,4 +101,5 @@ def menu():
 if login():
 
     menu()
+
 
